@@ -1,0 +1,8 @@
+.idea
+.mvn/**/*
+*.iml
+target/
+!**/src/main/**
+!**/src/test/**
+
+/docker*
